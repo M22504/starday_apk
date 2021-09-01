@@ -12,7 +12,7 @@ class RecyclerViewAdapter : RecyclerView.Adapter<RecyclerViewHolder>() {
         when(position){
             // bad coding practices!!! :DDD
             0 -> {
-                holder.setImage(R.drawable.approval, "Full endorsement and approval to utilise this image.")
+                holder.setImage(R.drawable.approval, "Fully endorsed image.")
             }
             2 -> {
                 holder.setImage(R.drawable.celebration, "A party popper is a pyrotechnic device commonly used at parties.\nIt emits a loud popping noise by means of a small friction-actuated explosive charge that is activated by pulling a string.")
