@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy STAR Day!!!</string>
+    <string name="star_day_message">Happy STAR Day Mr Ng!!</string>
+    <string name="text_to_speech">Mandatory TTS Implementation</string>
+    <string name="enjoy">Enjoy these images inside a mandatory RecyclerView implementation!!!</string>
+    <string name="sponsorship">This sponsored message was brought to you courtesy of M21404.</string>
+</resources>
